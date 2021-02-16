@@ -1,8 +1,7 @@
 ## Welcome to Tientien(Daphne) Hsieh's Portfolio
 
-You can use the [editor on GitHub](https://github.com/daphne830304/Daphne_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#About Me
+Hello and Welcome! I graduated from UC Davis in 2016 with a degree in Biochemistry. After graduation, I quickly entered the biotech industry and have been working in drug discovery since. During my career as a bench scientist in a high throughput environment, I self-taught python to help me with analyzing complex assay data and manage chemical compound storage. While I enjoy the thrills of doing wet lab experiments, I realized she has a higher affinity to coding and enjoys the debugging and problem-solving process. Thus, I joined Hackbright while the world is adapting to the wrath of COVID. I am excited to enter the tech world with her problem-solving mindset and her new coding skills as a software engineer.
 
 ### Markdown
 
