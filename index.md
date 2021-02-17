@@ -16,36 +16,24 @@ Sep 2012 - June 2016
 
 ## Projects
 ### Into the Ghibli world
-[Into the Gibli World](https://www.intotheghibliworld.com/)
+[_Into the Gibli World_](https://www.intotheghibliworld.com/)\
 Into the Ghibli World is a web app to see the locations around the globe that inspire Studio Ghibli movies. Made with a desire to travel during COVID times and my love for Studio Ghibli, this app collected information from several website and allows users to navigate through the google map and see the actual locations and ghibli movies scenes side by side. User can either navigate through the google map directly or use the search bar to search for keywords. With the use of OpenTripApi, users can also see nearby locations and restaurants within a radius of 2000m from the point of interest. Users can also view all the movies from Studio Ghibli and add them to favorites.
 
 ### Movie Finder
-[Movie Finder](http://daphne-hsieh-test01.herokuapp.com/)
+[_Movie Finder_](http://daphne-hsieh-test01.herokuapp.com/)\
 Movie Finder is an app to find movies and store them as nominates on the frontend using local storage.
 
 ## Resume
-
+[_Tientien(Daphne) Hsieh link_](https://docs.google.com/document/d/1ufvPleVvgTRdUHlBSCj8ubw4C8e29t0MhJrv3-7kH_M/edit#heading=h.6wymnhinx9q5)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## Experience
 
-- Bulleted
-- List
+### Research Associate II | Revolution Medicines\
+May 2017 - Feb 2020, Redwood City, CA\
+- Utilize Python tkinter and openpyxl library to create simple GUI to parse and restructure excel and csv files to streamline high throughput screening data analysis/ compound processing\
+- Developed and validated 384-well based assays in use for in-house screening and also conduct routine high throughput experiments\
+- Set up scripts in laboratory robots minimize manual labor\
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphne830304/Daphne_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
