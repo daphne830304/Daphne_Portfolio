@@ -16,11 +16,11 @@ Sep 2012 - June 2016
 
 ## Projects
 ### Into the Ghibli world
-[Into the Gibli World] (https://www.intotheghibliworld.com/)
+[Into the Gibli World](https://www.intotheghibliworld.com/)
 Into the Ghibli World is a web app to see the locations around the globe that inspire Studio Ghibli movies. Made with a desire to travel during COVID times and my love for Studio Ghibli, this app collected information from several website and allows users to navigate through the google map and see the actual locations and ghibli movies scenes side by side. User can either navigate through the google map directly or use the search bar to search for keywords. With the use of OpenTripApi, users can also see nearby locations and restaurants within a radius of 2000m from the point of interest. Users can also view all the movies from Studio Ghibli and add them to favorites.
 
 ### Movie Finder
-[Link] (http://daphne-hsieh-test01.herokuapp.com/)
+[Movie Finder](http://daphne-hsieh-test01.herokuapp.com/)
 Movie Finder is an app to find movies and store them as nominates on the frontend using local storage.
 
 ## Resume
