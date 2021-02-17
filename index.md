@@ -30,10 +30,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Experience
 
-### Research Associate II | Revolution Medicines\
-May 2017 - Feb 2020, Redwood City, CA\
-- Utilize Python tkinter and openpyxl library to create simple GUI to parse and restructure excel and csv files to streamline high throughput screening data analysis/ compound processing\
-- Developed and validated 384-well based assays in use for in-house screening and also conduct routine high throughput experiments\
-- Set up scripts in laboratory robots minimize manual labor\
+### Research Associate II | Revolution Medicines
+May 2017 - Feb 2020, Redwood City, CA
+- Utilize Python tkinter and openpyxl library to create simple GUI to parse and restructure excel and csv files to streamline high throughput screening data analysis/ compound processing
+- Developed and validated 384-well based assays in use for in-house screening and also conduct routine high throughput experiments
+- Set up scripts in laboratory robots minimize manual labor
 
 
