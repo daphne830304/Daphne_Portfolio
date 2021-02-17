@@ -5,22 +5,22 @@ Hello and Welcome! I graduated from UC Davis in 2016 with a degree in Biochemist
 
 ## Education
 
-**Hackbright Academy, San Francisco, Software Engineering**
-July 2020 - Jan 2021
+**Hackbright Academy, San Francisco, Software Engineering**\
+July 2020 - Jan 2021\
 Accelerated Software Engineering programing focusing on full-stack web development
 
 
-**University of California, Davis, Davis**   — BS in Biochemistry and Molecular Biology
+**University of California, Davis, Davis**   — BS in Biochemistry and Molecular Biology\
 Sep 2012 - June 2016
 
 
 ## Projects
 ### Into the Ghibli world
-[site url] https://www.intotheghibliworld.com/
+[site url] (https://www.intotheghibliworld.com/)
 Into the Ghibli World is a web app to see the locations around the globe that inspire Studio Ghibli movies. Made with a desire to travel during COVID times and my love for Studio Ghibli, this app collected information from several website and allows users to navigate through the google map and see the actual locations and ghibli movies scenes side by side. User can either navigate through the google map directly or use the search bar to search for keywords. With the use of OpenTripApi, users can also see nearby locations and restaurants within a radius of 2000m from the point of interest. Users can also view all the movies from Studio Ghibli and add them to favorites.
 
 ### Movie Finder
-[site URL] http://daphne-hsieh-test01.herokuapp.com/
+[site URL] (http://daphne-hsieh-test01.herokuapp.com/)
 Movie Finder is an app to find movies and store them as nominates on the frontend using local storage.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
