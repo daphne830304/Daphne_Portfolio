@@ -4,10 +4,15 @@
 Hello and Welcome! I graduated from UC Davis in 2016 with a degree in Biochemistry. After graduation, I quickly entered the biotech industry and have been working in drug discovery since. During my career as a bench scientist in a high throughput environment, I self-taught python to help me with analyzing complex assay data and manage chemical compound storage. While I enjoy the thrills of doing wet lab experiments, I realized she has a higher affinity to coding and enjoys the debugging and problem-solving process. Thus, I joined Hackbright while the world is adapting to the wrath of COVID. I am excited to enter the tech world with her problem-solving mindset and her new coding skills as a software engineer.
 
 ## Education
-**Hackbright Academy**   July 2020 ~ Jan 2021
-- 6 months accelerated software engineering bootcamp
 
-**UC Davis** Jun 2012 ~ Sep 2016
+**Hackbright Academy, San Francisco, Software Engineering**
+July 2020 - Jan 2021
+Accelerated Software Engineering programing focusing on full-stack web development
+
+
+**University of California, Davis, Davis**   — BS in Biochemistry and Molecular Biology
+Sep 2012 - June 2016
+
 
 ## Projects
 ### Into the Ghibli world
