@@ -3,7 +3,12 @@
 # About Me
 Hello and Welcome! I graduated from UC Davis in 2016 with a degree in Biochemistry. After graduation, I quickly entered the biotech industry and have been working in drug discovery since. During my career as a bench scientist in a high throughput environment, I self-taught python to help me with analyzing complex assay data and manage chemical compound storage. While I enjoy the thrills of doing wet lab experiments, I realized she has a higher affinity to coding and enjoys the debugging and problem-solving process. Thus, I joined Hackbright while the world is adapting to the wrath of COVID. I am excited to enter the tech world with her problem-solving mindset and her new coding skills as a software engineer.
 
-### Markdown
+## Projects
+### Into the Ghibli world
+Into the Ghibli World is a web app to see the locations around the globe that inspire Studio Ghibli movies. Made with a desire to travel during COVID times and my love for Studio Ghibli, this app collected information from several website and allows users to navigate through the google map and see the actual locations and ghibli movies scenes side by side. User can either navigate through the google map directly or use the search bar to search for keywords. With the use of OpenTripApi, users can also see nearby locations and restaurants within a radius of 2000m from the point of interest. Users can also view all the movies from Studio Ghibli and add them to favorites.
+
+### Movie Finder
+Movie Finder is an app to find movies and store them as nominates on the frontend using local storage.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
